@@ -82,6 +82,7 @@ h2{
 
     .button-container{
         padding: 20px;
+        gap: 10px;
     }
     .button{
         height: 130px;
